@@ -1,0 +1,45 @@
+#netTitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    color: hsl(0, 0%, 0%);
+}
+#Movies{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+#img1{
+    border: 10px solid;
+    border-color: black;
+    border-radius: 10px;
+
+}
+#img2{
+    border: 10px solid;
+    border-color: black;
+    border-radius: 10px;
+    
+
+}
+#img3{
+    border: 10px solid;
+    border-color: black;
+    border-radius: 10px;
+
+}
+#Shows{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-bottom: 20px;
+}
+body{
+    background-color: hsl(240, 100%, 60%);
+}
+.HREF{
+    color: lime;
+}
+#e1s{
+    border: 10px solid;
+    border-color: black;
+    border-radius: 10px;  
+}
