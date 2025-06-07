@@ -1,0 +1,22 @@
+{
+    "name": "Netmovie",
+    "short_name": "Netmovie",
+    "description": "",
+    "icons": [
+        {
+            "src": "netmovie logo.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        // ...
+        {
+            "src": "netmovie logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "https://hedgehogparrotdev.github.io/netmovie/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+}
