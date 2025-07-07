@@ -17,7 +17,7 @@
 #img2{
     border: 10px solid;
     border-color: black;
-    border-radius: 10px;
+    border-radius: 5px;
     
 
 }
@@ -33,13 +33,18 @@
     margin-bottom: 20px;
 }
 body{
-    background-color: hsl(240, 100%, 60%);
+  background:linear-gradient(blue,purple);
 }
 .HREF{
     color: lime;
 }
 #e1s{
     border: 10px solid;
+    border-color: black;
+    border-radius: 10px;  
+}
+.vid{
+border: 10px solid;
     border-color: black;
     border-radius: 10px;  
 }
